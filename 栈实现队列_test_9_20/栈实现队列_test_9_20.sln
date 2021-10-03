@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "栈实现队列_test_9_20", "栈实现队列_test_9_20\栈实现队列_test_9_20.vcxproj", "{57661978-18F0-4FB5-A485-48EEDBEA452B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57661978-18F0-4FB5-A485-48EEDBEA452B}.Debug|x64.ActiveCfg = Debug|x64
+		{57661978-18F0-4FB5-A485-48EEDBEA452B}.Debug|x64.Build.0 = Debug|x64
+		{57661978-18F0-4FB5-A485-48EEDBEA452B}.Debug|x86.ActiveCfg = Debug|Win32
+		{57661978-18F0-4FB5-A485-48EEDBEA452B}.Debug|x86.Build.0 = Debug|Win32
+		{57661978-18F0-4FB5-A485-48EEDBEA452B}.Release|x64.ActiveCfg = Release|x64
+		{57661978-18F0-4FB5-A485-48EEDBEA452B}.Release|x64.Build.0 = Release|x64
+		{57661978-18F0-4FB5-A485-48EEDBEA452B}.Release|x86.ActiveCfg = Release|Win32
+		{57661978-18F0-4FB5-A485-48EEDBEA452B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D422AA07-62C6-409B-ADE6-0B3BBBEA2D66}
+	EndGlobalSection
+EndGlobal
