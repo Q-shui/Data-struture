@@ -1,0 +1,4 @@
+﻿  test.c
+E:\c\vs\二叉树遍历_test_9_25\二叉树遍历_test_9_25\test.c(42,35): warning C4013: “malloc”未定义；假设外部返回 int
+E:\c\vs\二叉树遍历_test_9_25\二叉树遍历_test_9_25\test.c(53,14): warning C4098: “Preorder”:“void”函数返回值
+  二叉树遍历_test_9_25.vcxproj -> E:\c\vs\二叉树遍历_test_9_25\Debug\二叉树遍历_test_9_25.exe
