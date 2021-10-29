@@ -1,0 +1,193 @@
+﻿  BinaryTree.c
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(13,2): error C2061: 语法错误: 标识符“BTNode”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(14,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(16,1): error C2059: 语法错误:“}”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(19,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(22,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(22,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(22,37): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(25,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(25,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(25,32): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(25,28): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(28,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(28,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(28,36): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(28,32): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,34): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,44): error C2059: 语法错误:“类型”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,45): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,32): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,38): error C2371: “BTDataType”: 重定义；不同的基类型
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(8): message : 参见“BTDataType”的声明
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,49): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,50): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(37,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(37,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(37,38): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(37,34): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(40,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(40,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(40,36): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(40,32): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(43,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(43,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(43,38): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(43,34): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(5,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(13,8): error C2065: “BTNode”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(13,18): error C2065: “newnode”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(13,27): error C2065: “BTNode”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(13,28): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(14,9): error C2065: “newnode”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(14,11): error C2223: “->_data”的左侧必须指向结构/联合
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(15,9): error C2065: “newnode”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(15,11): error C2223: “->_left”的左侧必须指向结构/联合
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(16,9): error C2065: “newnode”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(16,11): error C2223: “->_right”的左侧必须指向结构/联合
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(18,16): error C2065: “newnode”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(18,16): warning C4047: “return”:“int *”与“int”的间接级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(22,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(22,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(22,37): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(23,1): error C2054: 在“root”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(38,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(38,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(38,32): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(38,28): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(39,1): error C2054: 在“root”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(49,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(49,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(49,36): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(49,32): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(50,1): error C2054: 在“root”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(61,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(61,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(61,34): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(61,44): error C2059: 语法错误:“类型”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(61,45): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(74,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(74,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(74,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(74,32): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(74,38): error C2371: “BTDataType”: 重定义；不同的基类型
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(8): message : 参见“BTDataType”的声明
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(74,49): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(74,50): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(75,1): error C2054: 在“x”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(88,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(88,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(88,38): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(88,34): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(89,1): error C2054: 在“root”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(100,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(100,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(100,36): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(100,32): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(101,1): error C2054: 在“root”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(112,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(112,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(112,38): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(112,34): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.c(113,1): error C2054: 在“root”之后应输入“(”
+  Queue.c
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(5,21): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(5,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(5,24): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(6,1): error C2054: 在“q”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(14,21): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(14,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(14,36): error C2146: 语法错误: 缺少“;”(在标识符“data”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(14,40): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(15,1): error C2054: 在“data”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(39,20): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(39,20): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(39,23): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(40,1): error C2054: 在“q”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(57,11): error C2061: 语法错误: 标识符“QueueFront”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(57,11): error C2059: 语法错误:“;”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(57,27): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(57,27): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(57,30): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(58,1): error C2054: 在“q”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(66,11): error C2061: 语法错误: 标识符“QueueBack”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(66,11): error C2059: 语法错误:“;”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(66,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(66,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(66,29): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(67,1): error C2054: 在“q”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(75,20): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(75,20): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(75,23): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(76,1): error C2054: 在“q”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(91,21): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(91,21): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(91,24): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(92,1): error C2054: 在“q”之后应输入“(”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(99,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(99,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(99,27): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\Queue.c(100,1): error C2054: 在“q”之后应输入“(”
+  test.c
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(13,2): error C2061: 语法错误: 标识符“BTNode”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(14,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(16,1): error C2059: 语法错误:“}”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(19,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(22,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(22,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(22,37): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(25,26): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(25,26): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(25,32): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(25,28): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(28,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(28,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(28,36): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(28,32): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,34): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,44): error C2059: 语法错误:“类型”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(31,45): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,32): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,38): error C2371: “BTDataType”: 重定义；不同的基类型
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(8): message : 参见“BTDataType”的声明
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,49): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(34,50): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(37,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(37,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(37,38): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(37,34): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(40,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(40,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(40,36): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(40,32): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(43,32): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(43,32): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(43,38): error C2059: 语法错误:“)”
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\BinaryTree.h(43,34): error C2040: “root”:“int *”与“int **”的间接寻址级别不同
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(10,8): error C2065: “BTNode”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(10,15): error C2297: “*”: 非法，右操作数包含“int **”类型
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(12,48): warning C4013: “BinaryTreeSize”未定义；假设外部返回 int
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(13,60): warning C4013: “BinaryTreeLevelKSize”未定义；假设外部返回 int
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(15,8): error C2065: “BTNode”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(15,15): error C2065: “find”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(15,31): warning C4013: “BinaryTreeFind”未定义；假设外部返回 int
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(15,42): error C2106: “=”: 左操作数必须为左值
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(16,21): error C2065: “find”: 未声明的标识符
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(16,23): error C2223: “->_data”的左侧必须指向结构/联合
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(16,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(16,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(16,9): message : 缺失的可变参数 1 为格式字符串“%c”所需
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(18,21): warning C4013: “BinaryTreePrevOrder”未定义；假设外部返回 int
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(21,19): warning C4013: “BinaryTreeInOrder”未定义；假设外部返回 int
+E:\c\vs\二叉树_test_10_29\二叉树_test_10_29\test.c(24,21): warning C4013: “BinaryTreePostOrder”未定义；假设外部返回 int
+  正在生成代码...
